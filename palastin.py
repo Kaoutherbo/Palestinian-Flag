@@ -7,8 +7,12 @@ Screen().bgcolor("white")
 h = 150
 w = 1000
 
+# Calculate starting position to center the flag
+x_start = -(w / 2)
+y_start = -(h / 2)
+
 up()
-goto(-500, 200)
+goto(-450, 100)
 down()
 
 # Black color

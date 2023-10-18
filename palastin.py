@@ -13,7 +13,7 @@ down()
 
 # Black color
 begin_fill()
-for _ in range(2):  # Use "_" as a placeholder for the loop variable if it's not needed
+for _ in range(2):  
     forward(w)
     left(90)
     forward(h)

@@ -6,7 +6,7 @@ This Python program uses the Turtle graphics library to draw the flag of Palesti
 
 1. **Requirements**: Ensure that you have Python and the Turtle graphics library installed.
 
-3. **Run the Script**: Open the script using your preferred Python environment, such as VS Code, and run it. The script will create a window displaying the Palestinian flag.
+2. **Run the Script**: Open the script using your preferred Python environment, such as VS Code, and run it. The script will create a window displaying the Palestinian flag.
 
 4. **Flag Dimensions**: The flag's dimensions and colors are defined in the script and can be adjusted as needed.
 

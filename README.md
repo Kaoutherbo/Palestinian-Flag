@@ -8,7 +8,7 @@ This Python program uses the Turtle graphics library to draw the flag of Palesti
 
 2. **Run the Script**: Open the script using your preferred Python environment, such as VS Code, and run it. The script will create a window displaying the Palestinian flag.
 
-4. **Flag Dimensions**: The flag's dimensions and colors are defined in the script and can be adjusted as needed.
+3. **Flag Dimensions**: The flag's dimensions and colors are defined in the script and can be adjusted as needed.
 
 5. **Customization**: You can modify the script to change the flag's proportions or colors to fit your preferences.
 

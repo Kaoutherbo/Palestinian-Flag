@@ -1,3 +1,4 @@
+
 # Palestinian Flag with Python Turtle Graphics
 
 This Python program uses the Turtle graphics library to draw the flag of Palestine. The flag consists of three horizontal stripes of black, white, and green colors, with a red triangle on the hoist side. The flag's proportions are approximate, and the colors represent the Palestinian national flag.
